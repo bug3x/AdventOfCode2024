@@ -1,2 +1,2 @@
 # AdventOfCode2024
-christmas programming problem
+just some christmas programming problems
